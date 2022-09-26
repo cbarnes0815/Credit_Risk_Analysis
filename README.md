@@ -12,5 +12,5 @@ We will evaluate the performance of these models and make a recommendation on wh
 
 ## Results
 
-
+<img src = "Resources/SummaryStats_LM.png"></img>
 
