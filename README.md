@@ -12,5 +12,23 @@ We will evaluate the performance of these models and make a recommendation on wh
 
 ## Results
 
-<img src = "Resources/SummaryStats_LM.png"></img>
+<img src = "Resources/oversampler_1.png"></img>
 
+
+<img src = "Resources/oversampler_2.png"></img>
+
+
+<img src = "Resources/smote_1.png"></img>
+
+
+<img src = "Resources/smote_2.png"></img>
+
+
+<img src = "Resources/brfc_1.png"></img>
+
+
+<img src = "Resources/brfc_2.png"></img>
+
+<img src = "Resources/easy_1.png"></img>
+
+<img src = "Resources/easy_2.png"></img>
